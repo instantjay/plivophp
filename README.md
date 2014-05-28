@@ -1,4 +1,4 @@
-plivo-php
+plivophp
 =========
 
-Rewrite of the Plivo API wrapper for PHP without PEAR package dependencies.
+Rewrite of the [official Plivo API wrapper for PHP](https://github.com/plivo/plivo-php) with Composer support and without PEAR package dependencies.

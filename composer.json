@@ -1,0 +1,10 @@
+{
+    "name": "instantjay/plivo-php",
+    "description": "Rewrite of the Plivo API wrapper for PHP without PEAR package dependencies.",
+    "autoload": {
+        "psr-4": {"instantjay/plivophp": "src/"}
+    },
+    "require": {
+        "guzzle/guzzle": "3.9.1"
+    }
+}
